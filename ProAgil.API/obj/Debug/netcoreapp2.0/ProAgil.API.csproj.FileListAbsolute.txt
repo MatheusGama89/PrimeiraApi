@@ -1,0 +1,10 @@
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\bin\Debug\netcoreapp2.0\ProAgil.API.deps.json
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\bin\Debug\netcoreapp2.0\ProAgil.API.runtimeconfig.json
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\bin\Debug\netcoreapp2.0\ProAgil.API.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\bin\Debug\netcoreapp2.0\ProAgil.API.dll
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\bin\Debug\netcoreapp2.0\ProAgil.API.pdb
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.AssemblyInfo.cs
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.dll
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.pdb
