@@ -8,3 +8,7 @@ C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API
 C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.AssemblyInfo.cs
 C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.dll
 C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.pdb
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.csprojAssemblyReference.cache
+C:\Users\mathe\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.genruntimeconfig.cache
