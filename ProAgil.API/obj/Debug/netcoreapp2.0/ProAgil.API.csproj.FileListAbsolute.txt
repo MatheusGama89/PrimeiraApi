@@ -26,3 +26,4 @@ C:\Users\matheus.gama\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProA
 C:\Users\matheus.gama\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.pdb
 C:\Users\matheus.gama\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.csproj.CoreCompileInputs.cache
 C:\Users\matheus.gama\Desktop\projetoUm\ProAgil.API\obj\Debug\netcoreapp2.0\ProAgil.API.genruntimeconfig.cache
+C:\Users\matheus.gama\Desktop\projetoUm\ProAgil.API\bin\Debug\netcoreapp2.0\global.json

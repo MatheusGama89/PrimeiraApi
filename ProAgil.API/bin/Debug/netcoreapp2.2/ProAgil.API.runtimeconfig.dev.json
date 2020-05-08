@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\matheus.gama\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\matheus.gama\\.nuget\\packages"
+    ]
+  }
+}
