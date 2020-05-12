@@ -7,7 +7,7 @@ namespace ProAgil.API.Data
     {
         public DataContext(DbContextOptions<DataContext> option) : base (option){}
 
-        public DbSet<Evento> Eventos { get; set; }
+        public  virtual DbSet<Evento> Eventos { get; set; }
         
     }
 }
